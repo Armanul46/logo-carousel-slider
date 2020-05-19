@@ -13,8 +13,6 @@ It allows you to easily create logo carousel/slider to display logos of clients,
 
 Live demo: <https://aazztech.com/demos/plugins/logo-carousel-slider>
 
-We released a new logo showcase plugin [Logo Showcase Ultimate](https://wordpress.org/plugins/logo-showcase-ultimate/) recently with a lot more features than Logo Carousel Slider. We do recommend [Logo Showcase Ultimate](https://wordpress.org/plugins/logo-showcase-ultimate/) over Logo Carousel Slider.
-
 Logo Carousel Slider is an excellent plugin to display logos of your clients, partners, sponsors and affiliates and more. The plugin is 100% responsive which means logos will display across all devices e.g. PC, Mobile, Tablet etc. perfectly. You do not need to be master of WordPress to use this awesome plugin. All you need to do to display logos, is to add your logos and then use the shortcode [logo_carousel_slider] anywhere on your website then the plugin will do the magic to display the logos in a very nice slider perfectly.  One of the amazing features of this plugin is that it has touch and swipe support. That means your users from any devices can view the logo carousel/slider nicely.
 
 = Features of this plugin =
