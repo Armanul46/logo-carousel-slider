@@ -3,7 +3,7 @@
 Plugin Name: Logo Carousel Slider
 Plugin URI:  https://aazztech.com/product/logo-carousel-slider
 Description: This plugin allows you to easily create logo carousel slider to display logos of clients, partners, sponsors, affiliates etc. in a beautiful carousel slider.
-Version:     2.1.1
+Version:     2.1.2
 Author:      AazzTech
 Author URI:  https://aazztech.com
 License:     GPL2

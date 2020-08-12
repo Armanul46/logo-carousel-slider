@@ -2,8 +2,8 @@
 Contributors: AazzTech
 Tags: logo, logo carousel, logo slider, logo carousel slider, logo showcase, logo slideshow, clients logo slider, sponsors logo slider, logos, logo slide, carousel, carousel slider, image carousel, image slider, clients logos show, sponsors, clients, partners
 Requires at least: 4.4
-Tested up to: 5.4
-Stable tag: 2.1.1
+Tested up to: 5.5
+Stable tag: 2.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,7 +65,7 @@ More amazing features available in [__Pro version__](https://aazztech.com/produc
 *   Pagination color change option.
 *   Many more…
 
-Live demo: <https://aazztech.com/demos/plugins/logo-carousel-slider/#proversion>
+Live demo: <https://demo.aazztech.com/plugin/logo-carousel-slider/#proversion>
 
 == Installation ==
 
@@ -82,6 +82,9 @@ After successfully installing and activating the plugin, you will find "Logo Car
 3. Pro version's demos
 
 == Changelog ==
+= 2.1.2 =
+* Add: WordPress 5.5 compatibility
+* Fix: slider speed issue
 = 2.1.1 =
 * Improved: WordPress version
 = 2.1 =
