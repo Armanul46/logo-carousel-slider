@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Logo Carousel Slider
-Plugin URI:  https://aazztech.com/product/logo-carousel-slider
+Plugin URI:  https://wpwax.com/product/logo-carousel-slider
 Description: This plugin allows you to easily create logo carousel slider to display logos of clients, partners, sponsors, affiliates etc. in a beautiful carousel slider.
-Version:     2.1.2
-Author:      AazzTech
-Author URI:  https://aazztech.com
+Version:     2.1.3
+Author:      wpWax
+Author URI:  https://wpwax.com
 License:     GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Domain Path: /languages/
@@ -135,7 +135,7 @@ if (!class_exists('Logo_Carousel_Slider')){
          * @return array It returns an array after adding a link to the pro version of the logo carousel slider
          */
         public function display_pro_version_link( $links ) {
-            $links[] = '<a href="'.esc_url('http://aazztech.com/product/logo-carousel-slider-pro').'" target="_blank">'.esc_html__('Pro Version', LCS_TEXTDOMAIN).'</a>';
+            $links[] = '<a href="'.esc_url('http://wpwax.com/product/logo-carousel-slider-pro').'" target="_blank">'.esc_html__('Pro Version', LCS_TEXTDOMAIN).'</a>';
             return $links;
         }
 

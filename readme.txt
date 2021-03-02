@@ -2,8 +2,8 @@
 Contributors: AazzTech
 Tags: logo, logo carousel, logo slider, logo carousel slider, logo showcase, logo slideshow, clients logo slider, sponsors logo slider, logos, logo slide, carousel, carousel slider, image carousel, image slider, clients logos show, sponsors, clients, partners
 Requires at least: 4.4
-Tested up to: 5.5
-Stable tag: 2.1.2
+Tested up to: 5.6
+Stable tag: 2.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -86,6 +86,8 @@ After successfully installing and activating the plugin, you will find "Logo Car
 3. Pro version's demos
 
 == Changelog ==
+= 2.1.3 =
+* Add: WordPress 5.6 compatibility
 = 2.1.2 =
 * Add: WordPress 5.5 compatibility
 * Fix: slider speed issue
